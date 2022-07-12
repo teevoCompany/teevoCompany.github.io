@@ -57,7 +57,7 @@ body {
   
   .alt-send-button {
     width: 400px;
-    height: 34px;
+    height: 33px;
     transition: all .2s ease-in-out;
   }
   
@@ -68,9 +68,9 @@ body {
     letter-spacing: 2px;
   }
   
-  .alt-send-button:hover {
+/*   .alt-send-button:hover {
     transform: translate3d(0px, -29px, 0px);
-  }
+  } */
   
   /* Begin Right Contact Page */
   .direct-contact-container {
