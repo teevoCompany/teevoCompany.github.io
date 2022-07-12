@@ -42,14 +42,14 @@ body {
   textarea {
     max-width: 400px;
     background-color: rgb(255, 255, 255);
-    color: #fff;
+    color: rgb(0, 0, 0);
     margin-top: 1em;
     letter-spacing: 1px;
   }
   
   .send-button {
     margin-top: 15px;
-    height: 34px;
+    height: 30px;
     width: 400px;
     overflow: hidden;
     transition: all .2s ease-in-out;
